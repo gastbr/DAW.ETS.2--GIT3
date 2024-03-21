@@ -31,13 +31,13 @@ internal class Program
                     jaula.Imprime();
                     break;
                 case ConsoleKey.D4:
-                case ConsoleKey.NumPad4:
+                case ConsoleKey.NumPad4: 
                     jaula.CambiaColor();
                     Console.WriteLine();
                     jaula.Imprime();
                     break;
-                case ConsoleKey.D6:
-                case ConsoleKey.NumPad6:
+                case ConsoleKey.D5:
+                case ConsoleKey.NumPad5:
                     Environment.Exit(0);
                     break;
             }

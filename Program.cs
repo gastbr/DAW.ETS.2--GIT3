@@ -36,8 +36,8 @@ internal class Program
                     Console.WriteLine();
                     jaula.Imprime();
                     break;
-                case ConsoleKey.D5:
-                case ConsoleKey.NumPad5:
+                case ConsoleKey.D6:
+                case ConsoleKey.NumPad6:
                     Environment.Exit(0);
                     break;
             }

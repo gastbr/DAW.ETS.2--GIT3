@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace DAW.ETS._2__GIT3
 {
     internal abstract class Animal
+
     {
         public string sexo = "";
 

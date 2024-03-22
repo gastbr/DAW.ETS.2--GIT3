@@ -85,7 +85,7 @@ namespace DAW.ETS._2__GIT3
         public void Vacia()
         {
             animales.Clear();
-            Console.WriteLine("Has vaciado la jaula.");
+            Console.WriteLine("La jaula está vacía.");
         }
     }
 }
